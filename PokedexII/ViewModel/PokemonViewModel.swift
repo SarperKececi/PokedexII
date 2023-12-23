@@ -49,4 +49,5 @@ class PokemonListViewModel: ObservableObject {
         }
     }
 }
-//ajfhajfha
+
+
